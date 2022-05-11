@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="conversores.MainPage"
+             Visual="Material">
+    <Grid BackgroundColor="#a0c7f8">
+        <StackLayout HorizontalOptions="Center"
+                 VerticalOptions="Center"
+                 WidthRequest="300"
+                 HeightRequest="600"
+                 Spacing="20">
+            <Label Text="conversor de dolares a pesos colombianos"
+               FontAttributes="Bold"
+               FontSize="45"
+               TextColor="#023375"/>
+            <Frame HasShadow="False"
+                   CornerRadius="25">
+                <Entry Placeholder="dolares"
+               x:Name="dolares"
+               Keyboard="Numeric"
+               PlaceholderColor="#124f88"
+               TextColor="#124f88"/>
+            </Frame>
+            
+
+            <Button Text="convertir" Clicked="Button_Clicked"
+                BackgroundColor="#090f0f"
+                Padding="10"
+                FontAttributes="Bold"
+                FontSize="20"
+                CornerRadius="10"/>
+            <Label x:Name="Resultado"
+                   TextColor="#4f77bd"
+                   FontSize="Medium"
+                   Padding="10"/>
+
+            <Button Text="cambiar"
+                x:Name="btcolombia"
+                Clicked="btcolombia_Clicked"
+                BackgroundColor="#090f0f"
+                Padding="10"
+                FontAttributes="Bold"
+               FontSize="20"
+               CornerRadius="10"/>
+        </StackLayout>
+    </Grid>
+
+
+</ContentPage>

@@ -1,0 +1,16 @@
+D:\escritorio\programacion 3.0\c#\conversores\conversores\bin\Debug\netstandard2.0\conversores.deps.json
+D:\escritorio\programacion 3.0\c#\conversores\conversores\bin\Debug\netstandard2.0\conversores.dll
+D:\escritorio\programacion 3.0\c#\conversores\conversores\bin\Debug\netstandard2.0\conversores.pdb
+D:\escritorio\programacion 3.0\c#\conversores\conversores\obj\Debug\netstandard2.0\conversores.csproj.AssemblyReference.cache
+D:\escritorio\programacion 3.0\c#\conversores\conversores\obj\Debug\netstandard2.0\conversores.GeneratedMSBuildEditorConfig.editorconfig
+D:\escritorio\programacion 3.0\c#\conversores\conversores\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\escritorio\programacion 3.0\c#\conversores\conversores\obj\Debug\netstandard2.0\conversores.AssemblyInfoInputs.cache
+D:\escritorio\programacion 3.0\c#\conversores\conversores\obj\Debug\netstandard2.0\conversores.AssemblyInfo.cs
+D:\escritorio\programacion 3.0\c#\conversores\conversores\obj\Debug\netstandard2.0\conversores.csproj.CoreCompileInputs.cache
+D:\escritorio\programacion 3.0\c#\conversores\conversores\obj\Debug\netstandard2.0\XamlC.stamp
+D:\escritorio\programacion 3.0\c#\conversores\conversores\obj\Debug\netstandard2.0\conversores.dll
+D:\escritorio\programacion 3.0\c#\conversores\conversores\obj\Debug\netstandard2.0\refint\conversores.dll
+D:\escritorio\programacion 3.0\c#\conversores\conversores\obj\Debug\netstandard2.0\conversores.pdb
+D:\escritorio\programacion 3.0\c#\conversores\conversores\obj\Debug\netstandard2.0\ref\conversores.dll
+D:\escritorio\programacion 3.0\c#\conversores\conversores\obj\Debug\netstandard2.0\NewFolder\convertidor de pesos colombianos.xaml.g.cs
+D:\escritorio\programacion 3.0\c#\conversores\conversores\obj\Debug\netstandard2.0\NewFolder\MainPage.xaml.g.cs
