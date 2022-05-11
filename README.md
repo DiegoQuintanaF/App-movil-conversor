@@ -5,3 +5,5 @@ Está es una aplicación móvil para convertir pesos colombianos a dolares y vic
 De la siguiente manera, podemos visualizar está aplicación:
 
 >![Vida](https://raw.githubusercontent.com/DiegoQuintanaF/App-movil-conversor/main/img/img_app.jpg)
+
+- Hecho por Diego Andres Quintana Fajardo. 
